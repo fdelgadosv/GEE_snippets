@@ -1,2 +1,2 @@
 # GEE_snippets
-Useful GEE Snippets to manage your assets
+Useful Google Earth Engine snippets to manage your assets
